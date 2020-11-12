@@ -1,2 +1,13 @@
 ## Started execution: 12-11-2020 21:48:15.10 
 Your branch is up to date with 'origin/master'.
+[master ce92d84] Added Searching Algos
+ 3 files changed, 60 insertions(+)
+ create mode 100644 Search/Search.cpp
+ create mode 100644 git commit push.bat
+ create mode 100644 tasklog.txt
+## Completed at 12-11-2020 21:48:19.69 
+___________________________________ 
+## Started execution: 12-11-2020 21:49:21.25 
+M	tasklog.txt
+Your branch is ahead of 'origin/master' by 1 commit.
+  (use "git push" to publish your local commits)
