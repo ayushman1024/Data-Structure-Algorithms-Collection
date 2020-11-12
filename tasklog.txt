@@ -11,3 +11,13 @@ ___________________________________
 M	tasklog.txt
 Your branch is ahead of 'origin/master' by 1 commit.
   (use "git push" to publish your local commits)
+[master f884c11] Added Searching Algos
+ 2 files changed, 12 insertions(+)
+ create mode 100644 .gitignore
+## Completed at 12-11-2020 21:49:24.77 
+___________________________________ 
+## Started execution: 12-11-2020 21:50:39.53 
+M	.gitignore
+M	tasklog.txt
+Your branch is ahead of 'origin/master' by 2 commits.
+  (use "git push" to publish your local commits)
