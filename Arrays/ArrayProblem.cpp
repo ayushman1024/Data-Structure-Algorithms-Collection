@@ -172,6 +172,7 @@ int main() {
   // leftRotD(b, 10, 3);for(int i=0;i<10;i++) std::cout<<b[i]<<" ";
   std::cout <<std::endl;
   leaders(b,10);
+  //
   // for(int i=0;i<10;i++) std::cout<<b[i]<<" ";
   std::cout <<"\nmax diff: "<<maxDiff(c, 5);
   std::cout <<"\nmax profit: "<<maxProfit(stock, 0, 5);
